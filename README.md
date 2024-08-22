@@ -1,14 +1,10 @@
 # Mean-Shift-K-Means-Agglomerative-Region-Growing-Global-Thresholding
+This project covers the implementation and comparison of various image segmentation algorithms, including Mean Shift, Agglomerative Clustering, K-Means, Region Growing, Global Thresholding, and Local Thresholding. These methods are applied to image data to explore their effectiveness in different scenarios.
 ## Table of Contents
-- [Introduction](#introduction)
 - [Project Features](#project-features)
 - [Quick Preview](#quick-preview)
 - [Requirements to Run](#requirements-to-run)
 - [Team](#team)
-
-### Introduction
-------------------------------------------
-This project covers the implementation and comparison of various image segmentation algorithms, including Mean Shift, Agglomerative Clustering, K-Means, Region Growing, Global Thresholding, and Local Thresholding. These methods are applied to image data to explore their effectiveness in different scenarios.
 
 ## Project Features
 ------------------------------------------
